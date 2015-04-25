@@ -6,6 +6,12 @@
 
 </head>
 <body>
+<div>
+		<?php
+			require_once(__DIR__ . "/view/login-form.php");
+			require_once(__DIR__ . "/view/register-form.php");
+		?>
+	</div>
 
 <div class="wrap">
 	<div class="task-list">

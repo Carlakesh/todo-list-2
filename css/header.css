@@ -1,0 +1,12 @@
+body{
+background-color: pink;
+}
+
+.your{
+	background:url("http://25.media.tumblr.com/tumblr_matggqMlEu1qjxjr3o4_1280.png");
+	font-family: 'Pacifico';
+	text-align: center;
+	border-style: double;
+	border-color: black;
+	border-radius: 15px;
+}

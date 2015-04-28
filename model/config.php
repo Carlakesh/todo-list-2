@@ -1,16 +1,16 @@
 <?php
 	require_once(__DIR__ . "/database.php");
-	require_once(__DIR__ . "/date.php");
+	
 	session_start();
 	session_regenerate_id(true);
 
 	
-	$path = "/todo-2/";
+	$path = "/todo2/";
 	
 	$host = "localhost";
 	$username = "root";
 	$password = "root";
-	$database = "todo-2";
+	$database = "todo2";
 
 	//checking if it has been set 
 	if(!isset($_SESSION["connection"])) {

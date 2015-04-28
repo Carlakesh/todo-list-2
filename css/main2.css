@@ -3,3 +3,11 @@ body{
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
+.hello{
+	font-family: 'Arimo', sans-serif;
+	font-size: 23px;
+}
+
+.link{
+	font-size: 17px;
+}

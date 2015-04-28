@@ -7,6 +7,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="css/main2.css">
     <link href='http://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Alegreya+SC' rel='stylesheet' type='text/css'>
 </head>
 <nav>
     <ul>
@@ -14,14 +15,14 @@
         <div class="hello">
         	<b>
              <p>
-        		Welcome! register or login!
+        		Welcome! Register or Login!
         	</b>
              </p>
         </div>
 
         <div class="link">
-         <li><a href="<?php echo $path. "login.php" ?>">Log In</a></li>
-         <li><a href="<?php echo $path. "register.php" ?>">Register</a></li>
+         <a class="a" href="<?php echo $path. "login.php" ?>">Log In</a>
+          <br>  <a class="a" href="<?php echo $path. "register.php" ?>">Register</a> </br> 
          </div>
     </ul>
 </nav>

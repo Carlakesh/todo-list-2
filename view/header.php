@@ -10,5 +10,5 @@
     </head>
     <body>
        <div id="title" class="your col-xs-12">
-      <h1>Your To Do List</h1>
+      <h1>My To Do List</h1>
     </div>

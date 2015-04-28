@@ -3,6 +3,11 @@
 
  ?>
 
+ <head>
+	<link rel="stylesheet" type="text/css" href="css/main2.css">
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+</head>
+
  <h1>Login</h1>
 
  <form method="post" action="<?php echo $path . "controller/login-user.php"; ?>"> 	

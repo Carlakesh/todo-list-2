@@ -4,6 +4,7 @@
     require_once(__DIR__ . "/../model/config.php");
     
 ?>
+
 <nav>
     <ul>
         <!-- create a link that point to the post file -->

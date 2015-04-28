@@ -4,7 +4,6 @@
 		<title>To-Do List </title>
 		<link rel="stylesheet" type="text/css" href="css/main2.css">	
 
-
 </head>	
 <body>
 		<div class="wrap">

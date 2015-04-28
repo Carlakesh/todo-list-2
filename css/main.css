@@ -2,11 +2,7 @@
 @import "normalize.css";
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
 
-body{
-	font:normal 14px 'Open Sans', Arial, sans-serif;
-	background: lightblue;
 
-}
 .wrap{
 	width: 400px;
 	margin:0 auto;

@@ -6,12 +6,18 @@
 .wrap{
 	width: 400px;
 	margin:0 auto;
+	font-family: 'Nunito', sans-serif;
 }
 .task-list {
-	width: 88%;
-	min-height:300px;
-	background:white;
+	width: 100%;
+	min-height:350px;
+	background-image: url(https://40.media.tumblr.com/48a94bee434104c3f59d98b903f0305a/tumblr_n9jdk1oZ0i1s00daco1_500.jpg);
+	background-repeat: no-repeat;
+	text-align: center;
+	background-size: 450px;
+	background-position: center; 
 	box-shadow: 2px 2px 0px #ddd;
 	margin-top: 40px;
 	padding:22px 6%;
 } 
+

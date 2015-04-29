@@ -3,6 +3,9 @@
 <head>
 		<title>To-Do List </title>
 		<link rel="stylesheet" type="text/css" href="css/main2.css">	
+			<link rel="stylesheet" type="text/css" href="css/main.css">	
+			<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+			<link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
 
 </head>	
 <body>

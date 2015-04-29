@@ -16,5 +16,12 @@ body{
 .a{
 	color: #EF596B;
 	 text-decoration:none;
+	border-style: double;
+	border-color: black;
+	border-radius: 15px;
+	border-width: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-image: url(http://data1.whicdn.com/images/104091957/thumb.jpg) 30 round;
 
 }

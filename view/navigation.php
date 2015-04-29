@@ -22,7 +22,7 @@
 
         <div class="link">
          <a class="a" href="<?php echo $path. "login.php" ?>">Log In</a>
-          <br>  <a class="a" href="<?php echo $path. "register.php" ?>">Register</a> </br> 
+          <br> <br> <a class="a" href="<?php echo $path. "register.php" ?>">Register</a> </br> </br>
          </div>
     </ul>
 </nav>

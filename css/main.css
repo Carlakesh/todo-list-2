@@ -11,7 +11,7 @@
 .task-list {
 	width: 100%;
 	min-height:350px;
-	background-image: url(https://40.media.tumblr.com/48a94bee434104c3f59d98b903f0305a/tumblr_n9jdk1oZ0i1s00daco1_500.jpg);
+	background-image: url(../images/alien.jpg);
 	background-repeat: no-repeat;
 	text-align: center;
 	background-size: 450px;
@@ -21,3 +21,10 @@
 	padding:22px 6%;
 } 
 
+@media (min-width: 600px) {
+
+}
+ @media screen and (max-width:480px) {
+       #sidebar { display: none;}
+        }
+  

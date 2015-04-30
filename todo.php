@@ -6,6 +6,7 @@
 			<link rel="stylesheet" type="text/css" href="css/main.css">	
 			<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
 			<link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
+			<meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>	
 <body>
@@ -40,7 +41,9 @@
 			<input class="tasklength" type="text" name="new-task" placeholder="Add new item..."/>
 		</form>
 		</div>
-		<a href="controller/logout-user.php">Log out</a>
+		<div class="link">
+		<a class="a" href="controller/logout-user.php">Log out</a>
+		</div>
 </body>
 	<script scr="http://code.jquery.com/jquery-latest.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>

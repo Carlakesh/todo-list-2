@@ -14,7 +14,7 @@ body{
 }
 
 .a{
-	color: #EF596B;
+	color: black;
 	 text-decoration:none;
 	border-style: double;
 	border-color: black;
@@ -23,5 +23,11 @@ body{
 	padding-top: 5px;
 	padding-bottom: 5px;
 	border-image: url(http://data1.whicdn.com/images/104091957/thumb.jpg) 30 round;
+}
+@media (min-width: 600px) {
 
 }
+ @media screen and (max-width:480px) {
+       #sidebar { display: none;}
+        }
+  
